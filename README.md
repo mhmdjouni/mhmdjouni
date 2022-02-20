@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+I'm interested in:
+- Image Processing and AI research
+- PyTorch-related projects
+- Python-based tensor decomposition libraries (e.g., TensorLy)
+- Android Development
 
 <!--
 **mhmdjouni/mhmdjouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

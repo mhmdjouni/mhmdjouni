@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 
 I'm interested in:
-- Image Processing and AI research
+- Computational Imaging and AI research
 - PyTorch-related projects
 - Python-based tensor decomposition libraries (e.g., TensorLy)
 - Android Development

@@ -1,7 +1,6 @@
 ### Welcome to my profile 👋
 
 I'm interested in:
-- AI Research
 - Computational Imaging (reconstruction, fusion, hyperspectral image applications)
 - PyTorch-related projects
 - Python-based tensor decomposition libraries (e.g., TensorLy)

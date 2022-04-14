@@ -2,7 +2,7 @@
 
 I'm interested in:
 - Computational Imaging (reconstruction, fusion, hyperspectral image applications)
-- PyTorch-related projects
+- AI research and PyTorch
 - Python-based tensor decomposition libraries (e.g., TensorLy)
 - Android and Web Development
 

@@ -1,10 +1,10 @@
 ### Welcome to my profile 👋
 
 I'm interested in:
-- Computational Imaging (reconstruction, fusion, hyperspectral image applications)
-- AI research and PyTorch
-- Python-based tensor decomposition libraries (e.g., TensorLy)
-- Android and Web Development
+- **Computational Imaging:** Reconstruction, Fusion, Hyperspectral Imaging
+- **Data Science:** PyTorch projects
+- **Tensor Data Analysis:** Python libraries (e.g., TensorLy)
+- Android & Web Development
 
 <!--
 **mhmdjouni/mhmdjouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

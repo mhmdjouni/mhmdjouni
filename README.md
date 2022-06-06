@@ -2,7 +2,7 @@
 
 I'm interested in:
 - **Computational Imaging:** Reconstruction, Fusion, Hyperspectral Imaging
-- **Data Science:** PyTorch projects
+- **Machine Learning:** PyTorch projects
 - **Tensor Data Analysis:** Python libraries (e.g., TensorLy)
 - Android & Web Development
 

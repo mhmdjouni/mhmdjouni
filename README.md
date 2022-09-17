@@ -1,9 +1,13 @@
 ### Welcome to my profile 👋
 
 I'm interested in:
-- **Computational Imaging:** Reconstruction, Fusion, Hyperspectral Imaging
-- **Machine Learning:** PyTorch projects
-- **Tensor Data Analysis:** Python libraries (e.g., TensorLy)
+- **Computational Imaging:**
+  - Image Reconstruction
+  - Image Fusion
+  - Hyperspectral Imaging
+  - Computer Vision
+- **Machine / Deep Learning**
+- **Tensor Data Analysis**
 - Android & Web Development
 
 <!--
